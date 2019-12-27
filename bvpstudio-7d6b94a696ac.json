@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bvpstudio",
+  "private_key_id": "7d6b94a696accaf6ed492e42da39f01aa0492b3a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCq7h7+BIqTfwhG\n0NmB4AvSMkYlCQh0lfcpJ6I+/YIVHfilUYhmH/cM7HZqcvdJrq8O3wzC3Qi9Cen0\nTgDMc0wivqfJKgGMKuAuUu4v57xekWYKbx5Q7wkA3bsW41IVFN0BQSMVnKvRofc9\nvAbH3RwQH+zxn4YcfqHgUWfzZNTQlIUbK9oQX36B1kp/q09DvVff0dTrnVa4+PH+\nnNudUbcGSD9qzoPrzZqp2U2qia3TdPT+xIOJWNWut2u+mlCwy09QYRSrMavL0xbN\n72oGV8nK+XeNp8VHnqczv+p+4eOM/qtqp0Vn2o6DbW/6ZBMby2iKn68O8/mY7sx3\n2UQJlsMpAgMBAAECggEAAkDOacdz/YO+1L15l6EDbf0dOEKlqqn7Z4XPAHqsjmi0\nZc+z4c6F1tT+rpttIYHZMnPDzL45X5j+opxXuiFQufFpNssSZ0LvNAYCRm+bPQ7/\nmTvVhT9fnVekPHtVg/3Y9/K1hyFKyhPaJ0HXI7VQVGL5IEaxDDWNyV/3jrXm/uv2\nFkZOVcEBywpT5Dq2Q90/PLtoeQbeKeTAJb3FWWrE4W30g6LUnT2Inyf5CLHoR1Ho\nabaZhUdyBM3DsGn2m6pRpl1ZZfYnwyu8ui1B6Bs6bT2qn7P+WzWANBqG2A05SXUe\nKktyVnhwC5AgOqekwEBKLqNbbzXMgx28LFx7gONM8QKBgQDSKByyX8mPhjj6LO0s\niM0nPiV3aDRosPTm2DbRXTn+luXpjYuGvoiQnRj8BM2XtpuZ0skv/MI2r+lj5JpU\n6KjEJCHzOau8WiVub7eoF7YWfhVHdvfPWc+w3gpgdcfFk1Yf78TplXqN9jpupAOS\nXB51uhZkxcTpDKVGgsO3kNy33QKBgQDQN3Y6/+bmtFOlPTHjif12RrzmOZ7W0sRR\ny5RwXTrlYtrk80krtpfjnkXX89Hbu7pR90vcKY6QkNSJIdlJ9aCfc0SzFQBnOytd\n2VUznePSkqJPW4zgd4wqLcivTRMA5a8cMw5KymhYInfZbh8XHsluzXIwAeVLNucN\n8kF6rjlJvQKBgQDN78q3LNBaWaAp366GjoPi6a5TRYTd9lH2iHenUCDNj1c7N547\nayht9dQO2jIRcjsmUH0gDiLO7jDZ16E4hUkj83hlXOUiTIATqVwiVyHzBpiZkEYk\nJZE1c1Bd1+zseoXSA+ZFM1qGFHyMASMS4DxlBvZ8x6Q+70piPy/FCSqQ7QKBgFAL\nIi5oNfG2nPlG3yjj4UZYx0GSIRfgiowPQQ85J+0K5a9iP1zIovdj3uG335MjRetA\nsC8A4sd8hdf55Thjbs4dV+moRzFoM7GuXOys4+oNaMwtG6knDAEi/KU3cfjEU175\n2aKy0Q4gogY6KUWQFku8OwttjyItBwH7gWSSGX/ZAoGBALZ9o+rPxdii7wnbrWJs\nekaw7T0EoIF5jz43qDloOFXSgRv5kWHC1s+yeJnUbKEBuz6dtI6bQjpaPtHVbm6m\nXT6Z2XclAdKJBvHCk5xz4XFx3DWmBWmHc8+LMnDXrPa7bECnYZAPS16aUtSbY0X8\noE3C2D1sSc2nFc/d+JLsubSh\n-----END PRIVATE KEY-----\n",
+  "client_email": "bvpstiudio@bvpstudio.iam.gserviceaccount.com",
+  "client_id": "105158392137505383143",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bvpstiudio%40bvpstudio.iam.gserviceaccount.com"
+}
